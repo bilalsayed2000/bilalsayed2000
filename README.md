@@ -13,9 +13,7 @@ I'm a DevOps Engineer with 4 years of experience in backend development (Java) a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal Inamdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](Jab Tak Hai Jaan!!!!)
 
----
-[![](https://visitcount.itsvg.in/api?id=Bilal Inamdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
